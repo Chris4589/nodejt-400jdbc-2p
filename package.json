@@ -1,6 +1,6 @@
 {
-  "name": "jt-400jdbc",
-  "version": "2.1.5",
+  "name": "nodejt-400jdbc-2p",
+  "version": "1.0",
   "author": {
     "name": "Michael Uranaka",
     "email": "uranakam@gmail.com"
@@ -13,7 +13,7 @@
   "description": "JDBC Wrapper for as400 Databases",
   "repository": {
     "type": "git",
-    "url": "git@github.com:Chris4589/jt-400jdbc.git"
+    "url": "git@github.com:Chris4589/nodejt-400jdbc-2p.git"
   },
   "engines": {
     "node": ">= 12.0"
